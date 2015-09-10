@@ -1,1 +1,1 @@
-<a href="connect.php">Log in with Facebook!</a>
+<a href="connect.php">Login with Facebook!</a>
